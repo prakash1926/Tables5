@@ -12,3 +12,4 @@ C:\Mphasis\Simplilearn\Phase4\day4\ConsoleAppTable5\ConsoleAppTable5\obj\Debug\n
 C:\Mphasis\Simplilearn\Phase4\day4\ConsoleAppTable5\ConsoleAppTable5\obj\Debug\net6.0\ConsoleAppTable5.pdb
 C:\Mphasis\Simplilearn\Phase4\day4\ConsoleAppTable5\ConsoleAppTable5\obj\Debug\net6.0\ConsoleAppTable5.genruntimeconfig.cache
 C:\Mphasis\Simplilearn\Phase4\day4\ConsoleAppTable5\ConsoleAppTable5\obj\Debug\net6.0\ref\ConsoleAppTable5.dll
+C:\Mphasis\Simplilearn\Phase4\day4\ConsoleAppTable5\ConsoleAppTable5\obj\Debug\net6.0\ConsoleAppTable5.sourcelink.json
