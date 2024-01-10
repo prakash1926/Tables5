@@ -1,0 +1,14 @@
+C:\Mphasis\Simplilearn\Phase4\day4\ConsoleAppTable5\ConsoleAppTable5\bin\Debug\net6.0\ConsoleAppTable5.exe
+C:\Mphasis\Simplilearn\Phase4\day4\ConsoleAppTable5\ConsoleAppTable5\bin\Debug\net6.0\ConsoleAppTable5.deps.json
+C:\Mphasis\Simplilearn\Phase4\day4\ConsoleAppTable5\ConsoleAppTable5\bin\Debug\net6.0\ConsoleAppTable5.runtimeconfig.json
+C:\Mphasis\Simplilearn\Phase4\day4\ConsoleAppTable5\ConsoleAppTable5\bin\Debug\net6.0\ConsoleAppTable5.dll
+C:\Mphasis\Simplilearn\Phase4\day4\ConsoleAppTable5\ConsoleAppTable5\bin\Debug\net6.0\ConsoleAppTable5.pdb
+C:\Mphasis\Simplilearn\Phase4\day4\ConsoleAppTable5\ConsoleAppTable5\obj\Debug\net6.0\ConsoleAppTable5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mphasis\Simplilearn\Phase4\day4\ConsoleAppTable5\ConsoleAppTable5\obj\Debug\net6.0\ConsoleAppTable5.AssemblyInfoInputs.cache
+C:\Mphasis\Simplilearn\Phase4\day4\ConsoleAppTable5\ConsoleAppTable5\obj\Debug\net6.0\ConsoleAppTable5.AssemblyInfo.cs
+C:\Mphasis\Simplilearn\Phase4\day4\ConsoleAppTable5\ConsoleAppTable5\obj\Debug\net6.0\ConsoleAppTable5.csproj.CoreCompileInputs.cache
+C:\Mphasis\Simplilearn\Phase4\day4\ConsoleAppTable5\ConsoleAppTable5\obj\Debug\net6.0\ConsoleAppTable5.dll
+C:\Mphasis\Simplilearn\Phase4\day4\ConsoleAppTable5\ConsoleAppTable5\obj\Debug\net6.0\refint\ConsoleAppTable5.dll
+C:\Mphasis\Simplilearn\Phase4\day4\ConsoleAppTable5\ConsoleAppTable5\obj\Debug\net6.0\ConsoleAppTable5.pdb
+C:\Mphasis\Simplilearn\Phase4\day4\ConsoleAppTable5\ConsoleAppTable5\obj\Debug\net6.0\ConsoleAppTable5.genruntimeconfig.cache
+C:\Mphasis\Simplilearn\Phase4\day4\ConsoleAppTable5\ConsoleAppTable5\obj\Debug\net6.0\ref\ConsoleAppTable5.dll
